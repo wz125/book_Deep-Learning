@@ -10,10 +10,11 @@ Acknowledgements
 Bibliography
 Index
 Notation
-  1 Introduction
+=======
+  1. Introduction
 Part I: Applied Math and Machine Learning Basics
-  2 Linear Algebra
-  3 Probability and Information Theory
+  2. Linear Algebra
+  3. Probability and Information Theory
   4 Numerical Computation
   5 Machine Learning Basics
 Part II: Modern Practical Deep Networks
