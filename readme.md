@@ -14,6 +14,7 @@ Index
 Notation
 =======
   1. Introduction
+  
 Part I: Applied Math and Machine Learning Basics
 =======
   2. Linear Algebra
