@@ -1,3 +1,4 @@
 
-
-![Deep Learning](http://www.deeplearningbook.org/)
+book
+====
+[Deep Learning](http://www.deeplearningbook.org/)
